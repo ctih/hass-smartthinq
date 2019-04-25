@@ -1,0 +1,8 @@
+{
+  "domain": "smartthinq",
+  "name": "SmartThinQ HVAG",
+  "documentation": "https://github.com/sampsyo/hass-smartthinq",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["https://github.com/ctih/wideq-master-da-DK/archive/master.zip#wide1==0.0.1"]
+}
