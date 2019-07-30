@@ -27,6 +27,7 @@ FAN_MODES = {
     'LOW': c_const.FAN_LOW,
     'MID': c_const.FAN_MEDIUM,  # Custom modes are supported but these
     'HIGH': c_const.FAN_HIGH,   # are fine for now.
+    'WIND': c_const.WIND, # Natural Wind (Auto Wind)
 }
 
 MAX_RETRIES = 5
